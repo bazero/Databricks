@@ -1,1 +1,2 @@
-# Databricks
+# Azure Databricks
+## Code Templates
